@@ -12,6 +12,7 @@ Example:
 It uses a chrome headless browser to login, click & type automatically on the UI in order to change the status of your Slack. 
 
 ## Setup
+- `git clone https://github.com/alicescfernandes/slack-status.git`
 - `npm install -g`. This will install a new command on your terminal called `slack-status`
 - Edit the `settings.json` file on this directory with some settings. The file should have this data filled in with your slack workspace URL, account password and email.
 
