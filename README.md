@@ -2,7 +2,7 @@
 
 # Slack Status
 A package to change the slack status without API calls.
-
+![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=slack-status&ev=1) 
 ### ⚠️ **It only works for username/password acccounts**
 
 Example:  
