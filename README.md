@@ -5,6 +5,8 @@ A package to change the slack status without API calls.
 
 ### ⚠️ **It only works for username/password acccounts**
 
+Example:  
+![](ss.gif)
 
 ## How it works?
 It uses a chrome headless browser to login, click & type automatically on the UI in order to change the status of your Slack. 
