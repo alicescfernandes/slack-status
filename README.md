@@ -1,4 +1,4 @@
-# ⚠️ **Be carefull while using this screen. Test it first on your own workspace**
+# ⚠️ **Be carefull while using this script. Test it first on your own workspace**
 
 # Slack Status
 A package to change the slack status without API calls.
