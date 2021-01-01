@@ -9,7 +9,7 @@ Example:
 ![](ss.gif)
 
 ## How it works?
-It uses a chrome headless browser to login, click & type automatically on the UI in order to change the status of your Slack. 
+It uses a chrome headless browser to login, click & type automatically on the UI in order to change the status of your Slack. Takes about 30s to do it, so it's note that fast
 
 ## Setup
 - `git clone https://github.com/alicescfernandes/slack-status.git`
